@@ -46,3 +46,4 @@ def predict_sample(index):
 
 predict_sample(7)
 model.save("transfer_learning_cifar10_model.h5")
+
